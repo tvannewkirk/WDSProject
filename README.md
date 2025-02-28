@@ -23,4 +23,3 @@ I added the edited Windows iso into the Windows Server 2019 and mounted the iso 
 - <b>PXE</b>
 
 
-<h2>Project walk-through:</h2>
